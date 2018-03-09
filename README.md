@@ -1,37 +1,13 @@
 ## Bush Did 9/11
 
-You can use the [editor on GitHub](https://github.com/BrendenYach/Repo1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The most prominent conspiracy theory is that the collapse of the Twin Towers and 7 World Trade Center were the result of a controlled demolition rather than structural failure due to impact and fire. Another prominent belief is that the Pentagon was hit by a missile launched by elements from inside the U.S. government or that a commercial airliner was allowed to do so via an effective stand-down of the American military. Possible motives claimed by conspiracy theorists for such actions include justifying the invasions of Afghanistan and Iraq (even though the U.S. government concluded Iraq was not involved in the attacks) to advance their geostrategic interests, such as plans to construct a natural gas pipeline through Afghanistan. Other conspiracy theories revolve around authorities having advance knowledge of the attacks and deliberately ignoring or assisting the attackers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JEt fuel can not melt steel and the towers were rated to withstand the hit from a plane bigger than the one that did hit it, not to mention some "painters" rented a whole floor of the WTC and were only ever seen bringing in thermite components. 
 
-### Markdown
+##Building 7
+ 
+Some proponents of World Trade Center controlled demolition theories suggest that 7 WTC was demolished because it may have served as an operational center for the demolition of the Twin Towers, while others suggest that government insiders may have wanted to destroy key files held in the building pertaining to corporate fraud. The WTC buildings housed dozens of federal, state and local government agencies. According to a statement reported by the BBC, Loose Change film producer Dylan Avery thinks the destruction of the building was suspicious because it housed some unusual tenants, including a clandestine CIA office on the 25th floor, an outpost of the U.S. Secret Service, the Securities and Exchange Commission, and New York City's emergency command center. The former chief counter-terrorism adviser to the President, Richard Clarke, does not think that 7 WTC is mysterious, and said that anyone could have rented floor space in the building.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+At the time, no steel frame high rise had ever before collapsed because of a fire, although there had been previous cases of collapses or partial collapses of smaller steel buildings due to fire. However, the ability of such a building to be completely destroyed by fire would be demonstrated in 2017, when the Plasco Building in Tehran collapsed following an uncontrolled blaze. In addition, 7 WTC also sustained significant structural damage during the collapse of 1 WTC from ejected debris.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrendenYach/Repo1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+BBC News reported the collapse of 7 WTC twenty minutes before it actually fell. The BBC has stated that many news sources were reporting the imminent collapse of 7 WTC on the day of the attacks. Jane Standley, the reporter who announced the collapse prematurely, called it a "very small and very honest mistake" caused by her thinking on her feet after being confronted with a report she had no way of checking.
