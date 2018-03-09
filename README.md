@@ -4,7 +4,7 @@ The most prominent conspiracy theory is that the collapse of the Twin Towers and
 
 JEt fuel can not melt steel and the towers were rated to withstand the hit from a plane bigger than the one that did hit it, not to mention some "painters" rented a whole floor of the WTC and were only ever seen bringing in thermite components. 
 
-##Building 7
+## Building 7
  
 Some proponents of World Trade Center controlled demolition theories suggest that 7 WTC was demolished because it may have served as an operational center for the demolition of the Twin Towers, while others suggest that government insiders may have wanted to destroy key files held in the building pertaining to corporate fraud. The WTC buildings housed dozens of federal, state and local government agencies. According to a statement reported by the BBC, Loose Change film producer Dylan Avery thinks the destruction of the building was suspicious because it housed some unusual tenants, including a clandestine CIA office on the 25th floor, an outpost of the U.S. Secret Service, the Securities and Exchange Commission, and New York City's emergency command center. The former chief counter-terrorism adviser to the President, Richard Clarke, does not think that 7 WTC is mysterious, and said that anyone could have rented floor space in the building.
 
